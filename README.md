@@ -11,3 +11,6 @@ Base Model = Iron limitation term on diazotrophy is a normalized function of the
 P* Model = Analogous to the Base Model but adds a dependency on diazotroph DIP uptake to that of the P* tracer within the euphotic zone, restricting diazotroph DIP uptake to where P* is positive and scaling diazotroph DIP uptake higher at higher P*.
 
 Base no Temp Model = Analogous to the Base Model with the temperature limitation term on diazotrophy removed.
+
+Release v0.1.1-alpha is published at Zenodo with:
+[![DOI](https://zenodo.org/badge/1428603802.svg)](https://doi.org/10.5281/zenodo.23540626)
